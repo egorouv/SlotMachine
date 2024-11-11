@@ -1,4 +1,6 @@
-package ru.egorov.slotmachine;
+package ru.egorov.slotmachine.calculation;
+
+import ru.egorov.slotmachine.model.SlotMachine;
 
 public class Simulation {
 

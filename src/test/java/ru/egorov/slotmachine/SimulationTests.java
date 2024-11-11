@@ -2,6 +2,7 @@ package ru.egorov.slotmachine;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import ru.egorov.slotmachine.calculation.Simulation;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

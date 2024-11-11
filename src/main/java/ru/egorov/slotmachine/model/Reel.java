@@ -1,4 +1,6 @@
-package ru.egorov.slotmachine;
+package ru.egorov.slotmachine.model;
+
+import ru.egorov.slotmachine.enums.Codes;
 
 import java.util.List;
 import java.util.Random;

@@ -1,5 +1,7 @@
 package ru.egorov.slotmachine;
 
+import ru.egorov.slotmachine.calculation.Simulation;
+
 import java.util.Scanner;
 
 public class Main {

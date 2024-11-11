@@ -1,4 +1,7 @@
-package ru.egorov.slotmachine;
+package ru.egorov.slotmachine.calculation;
+
+import ru.egorov.slotmachine.enums.Codes;
+import ru.egorov.slotmachine.model.SlotMachine;
 
 import java.util.HashMap;
 import java.util.List;

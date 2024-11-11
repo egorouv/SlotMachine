@@ -2,6 +2,8 @@ package ru.egorov.slotmachine;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import ru.egorov.slotmachine.enums.Codes;
+import ru.egorov.slotmachine.model.SlotMachine;
 
 import java.util.List;
 
